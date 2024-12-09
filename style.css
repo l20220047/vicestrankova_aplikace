@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+input {
+    padding: 8px;
+    font-size: 16px;
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.section {
+    display: none;
+}
+.favorite-movie {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #333;
+}
